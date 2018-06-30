@@ -1,5 +1,8 @@
 # Tanzania-s-water-problem-Pump-It-up
 
+Check it out here for a detailed and comprehensive review of this project-
+https://medium.com/@vaibhavshukla182/pump-it-up-data-mining-the-water-table-f903d4cfc7a8
+
 ‘Pump It Up’ is a competition organized by Drivendata and Tanzanian Ministry of water has raised same problem. A training dataset with information of nearly sixty thousand water points across Tanzania is provided and it is expected to build a model which will be able to predict which water points are functional, nonfunctional and functional but need repair on a test dataset.
 
 
