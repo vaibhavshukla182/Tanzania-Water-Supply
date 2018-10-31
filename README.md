@@ -1,4 +1,4 @@
-# Tanzania-s-water-problem-Pump-It-up
+#Tanzania-s-water-problem-Pump-It-up
 
 Check it out here for a detailed and comprehensive review of this project-
 https://medium.com/@vaibhavshukla182/pump-it-up-data-mining-the-water-table-f903d4cfc7a8
@@ -17,3 +17,4 @@ Evaluation of the model is mainly done through two classifiers-
 Of which RFC proved to be the better one after trying various forms of both the classifiers.
 
 Yours suggestions on improving my model are mostly humbly welcome.
+
