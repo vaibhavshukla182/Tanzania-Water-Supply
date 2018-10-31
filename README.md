@@ -16,4 +16,4 @@ Evaluation of the model is mainly done through two classifiers-
 
 Of which RFC proved to be the better one after trying various forms of both the classifiers.
 
-Yours suggestions on improving my model are mostly humbly welcome.
+Yours suggestions on improving my model are mostly humbly welcome
