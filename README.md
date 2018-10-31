@@ -11,9 +11,9 @@ As simple as possible visualisation of data in python, trying to explain the mea
 During cleaning of data I have removed some features which were similar to each other and made one more new feature.
 
 Evaluation of the model is mainly done through two classifiers-
-1)Random Forest Classifier
-2)XGboost
+1- RANDOM FOREST CLASSIFIER
+2- XGBOOST
 
 Of which RFC proved to be the better one after trying various forms of both the classifiers.
 
-Yours suggestions on improving my model are mostly humbly welcome.
+Your suggestions on improving my model are mostly humbly welcome.
